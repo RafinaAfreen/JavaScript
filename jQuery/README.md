@@ -1,3 +1,3 @@
 # Game
 ## description
-![./gameImage.PNG] 
+![](./gameImage.PNG) 
